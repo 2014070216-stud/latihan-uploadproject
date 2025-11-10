@@ -1,0 +1,72 @@
+body{
+    background-color: lightblue;
+}
+
+form{
+    background-color: rgb(255, 243, 111);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 430px;
+}
+
+.tabel_tampil{
+    margin: auto;
+    font-size: 18px;
+    background-color: rgb(249, 178, 197);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 90px;
+
+}
+
+.tombol{
+    background-color: #7aff63;
+    padding: 8px 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.tombol:hover{
+    background-color: rgb(255, 225, 2);
+    color: rgb(0, 0, 0);   
+    transition: 0.5s;
+}
+
+.button{
+    background-color: rgb(66, 82, 253);
+    padding: 10px 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.button:hover{
+    background-color: rgb(156, 186, 255);
+    color: rgb(0, 0, 0);   
+    transition: 0.5s;
+}
+
+.back{
+    background-color: rgb(9, 136, 145);
+    padding: 10px 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.back:hover{
+    background-color: rgb(4, 23, 23);
+    color: rgb(255, 255, 255);   
+    transition: 0.5s;
+}
+
+#tabel_header{
+    background-color: rgb(255, 0, 0);
+}
